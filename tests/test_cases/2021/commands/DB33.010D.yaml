@@ -1,51 +1,99 @@
 command_id: DB33.010D
 test_cases:
-- response: 18DAF15903410D00
-  expected_values:
+- expected_values:
     VSS: 0
-- response: |-
-    18DAF15903410D04
-    18DAF15A03410D05
-    18DAF15803410D05
-    18DAF16203410D05
-    18DAF18703410D04
-  expected_values:
+  response: 18DAF15903410D00
+- expected_values:
     VSS: 4
-- response: |-
-    18DAF15903410D2C
-    18DAF15A03410D2B
-    18DAF15803410D2C
-    18DAF16203410D2C
-    18DAF18703410D2C
-  expected_values:
-    VSS: 44
-- response: |-
+  response: |-
+    18DAF15903410D03
+    18DAF15A03410D03
+    18DAF15803410D02
+    18DAF16203410D03
+    18DAF18703410D04
+- expected_values:
+    VSS: 3
+  response: |-
+    18DAF15903410D03
+    18DAF16203410D03
+    18DAF15A03410D03
+    18DAF15803410D03
+    18DAF18703410D03
+- expected_values:
+    VSS: 23
+  response: |-
+    18DAF15903410D17
+    18DAF15A03410D17
+    18DAF15803410D17
+    18DAF18703410D17
+    18DAF16203410D17
+- expected_values:
+    VSS: 31
+  response: |-
+    18DAF15903410D20
+    18DAF15A03410D1F
+    18DAF15803410D20
+    18DAF16203410D20
+    18DAF18703410D1F
+- expected_values:
+    VSS: 48
+  response: |-
     18DAF15903410D30
     18DAF16203410D30
     18DAF18703410D2F
     18DAF15A03410D30
     18DAF15803410D30
-  expected_values:
-    VSS: 48
-- response: |-
-    18DAF16203410D00
-    18DAF15903410D00
+- expected_values:
+    VSS: 57
+  response: |-
+    18DAF15903410D38
+    18DAF18703410D38
+    18DAF15A03410D39
+    18DAF16203410D39
+    18DAF15803410D39
+- expected_values:
+    VSS: 71
+  response: |-
+    18DAF15903410D47
+    18DAF15A03410D47
+    18DAF15803410D47
+    18DAF16203410D47
+    18DAF18703410D47
+- expected_values:
+    VSS: 0
+  response: |-
     18DAF15A03410D00
+    18DAF15903410D00
+    18DAF16203410D00
     18DAF15803410D00
     18DAF18703410D00
-  expected_values:
+- expected_values:
     VSS: 0
-- response: |-
-    18DAF16203410D32
-    18DAF15903410D32
-    18DAF18703410D31
-    18DAF15803410D32
-    18DAF15A03410D32
-  expected_values:
-    VSS: 50
-- response: 18DAF16203410D71
-  expected_values:
-    VSS: 113
-- response: 18DAF18703410D0C
-  expected_values:
-    VSS: 12
+  response: |-
+    18DAF16203410D00
+    18DAF15903410D00
+    18DAF15803410D00
+    18DAF15A03410D00
+    18DAF18703410D00
+- expected_values:
+    VSS: 31
+  response: |-
+    18DAF16203410D1F
+    18DAF15903410D1F
+    18DAF15A03410D1F
+    18DAF15803410D1F
+    18DAF18703410D1F
+- expected_values:
+    VSS: 72
+  response: |-
+    18DAF16203410D49
+    18DAF15903410D49
+    18DAF15A03410D49
+    18DAF15803410D49
+    18DAF18703410D48
+- expected_values:
+    VSS: 119
+  response: 18DAF16203410D77
+- expected_values:
+    VSS: 0
+  response: 18DAF18703410D00
