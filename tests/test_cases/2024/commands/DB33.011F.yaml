@@ -1,0 +1,8 @@
+command_id: DB33.011F
+test_cases:
+- expected_values:
+    RUNTM: 397
+  response: 18DAF15804411F018D
+- expected_values:
+    RUNTM: 1141
+  response: 18DAF15804411F0475
