@@ -1,0 +1,38 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_S-Class"
+
+generations:
+  - name: "W116 (First Generation)"
+    start_year: 1972
+    end_year: 1980
+    description: "First generation officially branded as S-Class, introduced with the W116 chassis code in 1972."
+
+  - name: "W126 (Second Generation)"
+    start_year: 1979
+    end_year: 1991
+    description: "Second generation S-Class, premiered in September 1979, launched in March 1980, featuring improved aerodynamics and enlarged aluminum engine blocks."
+
+  - name: "W140 (Third Generation)"
+    start_year: 1991
+    end_year: 1998
+    description: "Third generation introduced in 1991, featuring two wheelbase lengths and a shorter-wheelbase W140 coupé."
+
+  - name: "W220 (Fourth Generation)"
+    start_year: 1998
+    end_year: 2005
+    description: "Fourth generation presented in July 1998, marketed as a sedan only, despite being smaller than the previous generation, offered more interior space."
+
+  - name: "W221 (Fifth Generation)"
+    start_year: 2005
+    end_year: 2013
+    description: "Fifth generation introduced in autumn 2005 at the Frankfurt International Motor Show, featuring a big change in design with newly developed engines."
+
+  - name: "W222 (Sixth Generation)"
+    start_year: 2013
+    end_year: 2020
+    description: "Sixth generation produced from June 2013 to September 2020 for the W222 sedan, with C217 coupé and A217 cabriolet variants produced from November 2014 to August 2020."
+
+  - name: "W223 (Seventh Generation)"
+    start_year: 2021
+    end_year: null
+    description: "Seventh generation introduced in 2021, continuing production through the present."
