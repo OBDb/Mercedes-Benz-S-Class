@@ -4,8 +4,8 @@ test_cases:
     MERCEDES_HV_V: 0
   response: 7ED056260750000
 - expected_values:
-    MERCEDES_HV_V: 44.5
-  response: 7ED0562607506F4
+    MERCEDES_HV_V: 44.6
+  response: 7ED0562607506F8
 - expected_values:
     MERCEDES_HV_V: 45
   response: 7ED056260750708
